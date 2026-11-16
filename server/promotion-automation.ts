@@ -528,4 +528,3 @@ async function logCouponDelivery(
     scheduledAt: now,
   });
 }
-
